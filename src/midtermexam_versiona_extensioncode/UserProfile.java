@@ -12,6 +12,7 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * @modifier haiden, 2023
  */
 public class UserProfile 
 {
@@ -54,6 +55,8 @@ public class UserProfile
         return genre;
     }
 
+
+
     /**
      * @param genre the genre to set
      */
@@ -61,7 +64,9 @@ public class UserProfile
         this.genre = genre;
     }
     
-    
+    public String[] getGenres() {
+        return genres;
+    }
     
     
     
