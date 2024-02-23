@@ -11,7 +11,7 @@ package midtermexam_versiona_extensioncode;
  * genres array. This code is to be used for SYST 17796 midterm exam.
  * Students are reminded to add themselves as modifiers when editing the
  * code.
- * @author dancye, 2019
+ * @author harsh bhalala, 2024
  */
 public class UserProfile 
 {
